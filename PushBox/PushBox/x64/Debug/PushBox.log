@@ -1,0 +1,11 @@
+﻿  create.c
+C:\Users\jaluova\source\repos\PushBox\PushBox\create.c(346,16): warning C4133: “函数”: 从“int *”到“char *”的类型不兼容
+  expansion.c
+  gameview.c
+  pushbox.c
+  service.c
+  view.c
+C:\Users\jaluova\source\repos\PushBox\PushBox\view.c(257,19): warning C4133: “函数”: 从“int *”到“char *”的类型不兼容
+  正在生成代码...
+C:\Users\jaluova\source\repos\PushBox\PushBox\service.c(285,1): warning C4716: “isClear”: 必须返回一个值
+  PushBox.vcxproj -> C:\Users\jaluova\source\repos\PushBox\x64\Debug\PushBox.exe
